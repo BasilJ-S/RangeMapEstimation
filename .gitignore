@@ -9,6 +9,10 @@ __pycache__/
 # Images
 *.tif
 
+# Large Files, not used for project
+Dec8LargeDownload.csv
+Dec8AllAnimalDownload.csv
+
 # Distribution / packaging
 .Python
 build/
